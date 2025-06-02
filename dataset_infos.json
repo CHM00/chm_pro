@@ -1,1 +1,0 @@
-{"default": {"features": {"text": {"_type": "Value"}}, "splits": {"train": {"name": "train", "dataset_name": "Datawhale_elm_zhihuiyanglao"}}}}
